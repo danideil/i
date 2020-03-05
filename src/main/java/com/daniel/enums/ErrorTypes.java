@@ -67,6 +67,7 @@ public enum ErrorTypes {
 	FAILED_TO_SET_PURCHASE_PRICE(668, "Purchase error: ", "fail to set purchase price", true),
 	FAILED_TO_SET_PURCHASE_DATE(669, "Purchase error: ", "fail to set purchase date", true),
 	
+	
 //	INVALID_PURCHASE,
 //	MISSING_COMPANY,
 	INVALID_PASSWORD(609, "Problem while login: ", "Wrong password was given", false),
