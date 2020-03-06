@@ -6,7 +6,7 @@ public enum ErrorTypes {
 	
 	// Login + Register:
 	LOGIN_FAIL(605, "Login failure", "please check email and password", true),
-	INVALID_EMAIL(606, "Register error:", "Email is already taken.", false),
+	INVALID_EMAIL(606, "Register error:", "Email is already taken.", true),
 	PASSWORD_VALIDATION_FAILED(607, "Password validation has failed:", "password not valid", false),
 	
 	// Users errors:
